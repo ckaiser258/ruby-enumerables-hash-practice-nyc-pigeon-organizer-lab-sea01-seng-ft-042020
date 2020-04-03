@@ -12,7 +12,6 @@ def nyc_pigeon_organizer(data)
             pidgeon_list[name][attribute] = []
           end
           pidgeon_list[name][attribute] << value2.to_s
- #                   binding.pry
       end
     end
   end
